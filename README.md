@@ -101,4 +101,16 @@ Metric(s):
 
  Split the dataset randomly into three parts train, cross validation and test with 64%,16%, 20% of data respectively
 
-                                                
+<h1> Dependencies </h1>
+<ul>
+ <li> sklearn </li>
+ <li> numpy </li>
+ </ul>
+
+<h1> Instructions </h1>
+<ol>
+ <li> pip install scikit-learn</li>
+ <li> pip install numpy</li>
+ <li> open PersonalizedCancerDiagnosis.ipynb </li>
+ <li> Run all cells </li>
+</ol>
